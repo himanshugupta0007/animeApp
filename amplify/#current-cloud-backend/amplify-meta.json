@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-animemangaapp-dev-201055-authRole",
+      "UnauthRoleArn": "arn:aws:iam::450848632298:role/amplify-animemangaapp-dev-201055-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::450848632298:role/amplify-animemangaapp-dev-201055-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-animemangaapp-dev-201055-deployment",
+      "UnauthRoleName": "amplify-animemangaapp-dev-201055-unauthRole",
+      "StackName": "amplify-animemangaapp-dev-201055",
+      "StackId": "arn:aws:cloudformation:ap-south-1:450848632298:stack/amplify-animemangaapp-dev-201055/7dcf51b0-fc9c-11ed-868e-0a304b2dca28",
+      "AmplifyAppId": "dnmgcyntryg2u"
+    }
+  }
+}
